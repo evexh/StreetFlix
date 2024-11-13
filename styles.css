@@ -34,11 +34,11 @@ p{
 }
 
 
-.categoria-videos {
-    display: flex;
+.categoria-videos { 
+    display:flex;
     overflow-x: auto;
     gap: 10px;
-}
+} 
 
 .categoria {
     padding-left: 20px;
